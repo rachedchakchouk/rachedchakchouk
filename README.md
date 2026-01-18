@@ -2,33 +2,33 @@
 
 ## 💻 Software Engineer | Full Stack Java & Angular
 
-I am a **Software Engineer** specialized in **Full Stack development**, with strong experience in **Java, Spring Boot, Angular**, and **microservices architectures**.  
-I focus on building **scalable, maintainable, and high-quality software solutions**.
+I am a **Software Engineer** specialized in **Full Stack development**, with solid experience in **Java, Spring Boot, Angular**, and **microservices architectures**.  
+I focus on building **scalable, maintainable, and high-quality software solutions**, with attention to clean code and performance.
 
 ---
 
 ## 👀 I’m interested in
 - Full Stack Web Development
-- Java & Spring Boot ecosystems
-- Angular & modern front-end architectures
-- Microservices & RESTful APIs
+- Java & Spring Boot ecosystem
+- Angular and modern front-end architectures
+- Microservices and RESTful APIs
 - DevOps practices and CI/CD pipelines
-- Software architecture & clean code
+- Software architecture and clean code principles
 
 ---
 
 ## 🌱 I’m currently improving
 - Advanced **Spring Boot & Microservices** patterns
-- **DevOps** (Docker, CI/CD, deployment automation)
-- System design and performance optimization
+- **DevOps** skills (Docker, CI/CD, deployment automation)
+- System design, scalability, and performance optimization
 
 ---
 
 ## 💞️ I’m looking to collaborate on
 - Java / Spring Boot backend projects
-- Full Stack applications (Java + Angular)
+- Full Stack applications (Java & Angular)
 - Open-source projects related to web development or microservices
-- Enterprise-grade software solutions
+- Enterprise-grade and scalable software solutions
 
 ---
 
@@ -42,7 +42,7 @@ I focus on building **scalable, maintainable, and high-quality software solution
 ---
 
 ## 📫 How to reach me
-- **LinkedIn:** [(Click her)](https://www.linkedin.com/in/rached-chakchouk/)
+- **LinkedIn:** [Click here](https://www.linkedin.com/in/rached-chakchouk/)
 - **Email:** rached.chakchouk@esprit.tn
 
 ---
