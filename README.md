@@ -42,7 +42,7 @@ I focus on building **scalable, maintainable, and high-quality software solution
 ---
 
 ## 📫 How to reach me
-- **LinkedIn:** [(add your LinkedIn URL)](https://www.linkedin.com/in/rached-chakchouk/)
+- **LinkedIn:** [(Click her)](https://www.linkedin.com/in/rached-chakchouk/)
 - **Email:** rached.chakchouk@esprit.tn
 
 ---
