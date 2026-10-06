@@ -1,4 +1,4 @@
-<p align="right"><a href="https://github.com/rachedchakchouk">🇬🇧 English</a> · 🇫🇷 Français</p>
+<p align="right"><a href="https://github.com/rachedchakchouk"><img src="https://flagcdn.com/24x18/gb.png" width="24" height="18" alt="English"> English</a> &nbsp;·&nbsp; <img src="https://flagcdn.com/24x18/fr.png" width="24" height="18" alt="Français"> <b>Français</b></p>
 
 # 👋 Bonjour, je suis Rached Chakchouk
 

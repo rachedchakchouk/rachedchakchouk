@@ -1,4 +1,4 @@
-<p align="right">🇬🇧 English · <a href="README.fr.md">🇫🇷 Français</a></p>
+<p align="right"><img src="https://flagcdn.com/24x18/gb.png" width="24" height="18" alt="English"> <b>English</b> &nbsp;·&nbsp; <a href="README.fr.md"><img src="https://flagcdn.com/24x18/fr.png" width="24" height="18" alt="Français"> Français</a></p>
 
 # 👋 Hi, I'm Rached Chakchouk
 
