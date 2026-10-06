@@ -63,6 +63,7 @@ I bring both engineering rigor and a strong sense of delivery.
 | Project | Description | Stack |
 |---|---|---|
 | [rached-chakchouk-portfolio](https://github.com/rachedchakchouk/rached-chakchouk-portfolio) | My bilingual portfolio (FR / EN) — [live](https://rached-chakchouk.netlify.app) | HTML, CSS, JS, Netlify |
+| [CollaboratorBook](https://github.com/rachedchakchouk/CollaboratorBook_FRONT) | End-of-studies project (Ditriot Consulting): internal social network & HR platform — Angular front + Spring Boot microservices ([backend](https://github.com/rachedchakchouk/CollaboratorBook_BACK)) | Angular, Spring Boot, Spring Cloud, JWT, MySQL |
 | [Timesheet_DevOps](https://github.com/rachedchakchouk/Timesheet_DevOps) | Spring Boot REST API shipped through a Jenkins → SonarQube → Nexus → Docker pipeline | Java, Spring Boot, MySQL, Jenkins, Docker |
 | [SocialNetwork-ParentsKindergartens](https://github.com/rachedchakchouk/SocialNetwork-ParentsKindergartens) | Backend of a social network for parents and kindergartens (30+ JPA entities) | Java, Spring Boot, JPA, MySQL |
 | [open-library-explorer](https://github.com/rachedchakchouk/open-library-explorer) | Book search app on the Open Library API, with unit tests | Next.js, React, Tailwind, Jest |
