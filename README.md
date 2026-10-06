@@ -1,3 +1,5 @@
+<p align="right">🇬🇧 English · <a href="README.fr.md">🇫🇷 Français</a></p>
+
 # 👋 Hi, I'm Rached Chakchouk
 
 ### Full Stack Software Engineer · Java / Spring Boot / Angular
