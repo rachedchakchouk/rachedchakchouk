@@ -6,8 +6,8 @@
 
 📍 Ariana, Tunisia · 🌐 [rached-chakchouk.netlify.app](https://rached-chakchouk.netlify.app) · 💼 [LinkedIn](https://www.linkedin.com/in/rached-chakchouk) · ✉️ rached.chakchouk@esprit.tn
 
-I build **ERP and business applications** with **Spring Boot, Angular and PostgreSQL**: invoicing and sales
-management, HR and payroll. I'm comfortable with complex business rules (Tunisian tax regulations,
+I build **business applications** with **Spring Boot, Angular and PostgreSQL**: an invoicing and stock
+management application, and an HR management and payroll application. I'm comfortable with complex business rules (Tunisian tax regulations,
 payroll calculation, multitenancy) and committed to **reliable, regression-free delivery**.
 I work with AI every day (code analysis, development, documentation).
 
@@ -20,8 +20,8 @@ I bring both engineering rigor and a strong sense of delivery.
 
 | Role | Company | Period | Highlights |
 |---|---|---|---|
-| Full Stack Engineer – Java / Angular | **Axeane** | Feb 2026 – present | SaaS ERP for invoicing (Axeane Novia): Tunisian VAT, stamp duty, withholding tax & TEJ XML, PDF templates (Thymeleaf / Flying Saucer), access rights |
-| Full Stack Engineer – Java / Angular | **C&A Trade Digital Services** | Aug 2023 – Nov 2025 | Cloud ERP HR & Payroll module: contracts, leave, payroll calculation, JasperReports, multitenant Spring Security |
+| Full Stack Engineer – Java / Angular | **Axeane** | Feb 2026 – present | SaaS invoicing and stock management application (Axeane Novia): Tunisian VAT, stamp duty, withholding tax & TEJ XML, PDF templates (Thymeleaf / Flying Saucer), access rights |
+| Full Stack Engineer – Java / Angular | **C&A Trade Digital Services** | Aug 2023 – Nov 2025 | Cloud HR management application, HR & Payroll module: contracts, leave, payroll calculation, JasperReports, multitenant Spring Security |
 | Technical Project Manager | **SHILDOM Tunisie** | 2013 – 2018 | Security & network projects, team of 5–10 technicians, budgets, reporting & KPIs |
 
 🎓 Software Engineering degree — **ESPRIT** (2022)

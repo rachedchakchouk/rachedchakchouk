@@ -6,8 +6,8 @@
 
 📍 Ariana, Tunisie · 🌐 [rached-chakchouk.netlify.app](https://rached-chakchouk.netlify.app) · 💼 [LinkedIn](https://www.linkedin.com/in/rached-chakchouk) · ✉️ rached.chakchouk@esprit.tn
 
-Je développe des **ERP et des applications métier** avec **Spring Boot, Angular et PostgreSQL** : facturation et
-gestion commerciale, ressources humaines et paie. À l'aise avec les règles métier complexes (fiscalité tunisienne,
+Je développe des **applications métier** avec **Spring Boot, Angular et PostgreSQL** : une application de facturation et
+de gestion de stock, et une application GRH (ressources humaines et paie). À l'aise avec les règles métier complexes (fiscalité tunisienne,
 calcul de la paie, multitenancy), je suis attaché à des **livraisons fiables, sans régression**.
 J'utilise l'IA au quotidien (analyse de code, développement, documentation).
 
@@ -20,8 +20,8 @@ j'allie rigueur d'ingénieur et sens de la livraison.
 
 | Poste | Entreprise | Période | Points clés |
 |---|---|---|---|
-| Ingénieur Full Stack – Java / Angular | **Axeane** | Fév. 2026 – aujourd'hui | ERP SaaS de facturation (Axeane Novia) : TVA, timbre fiscal, retenue à la source et XML TEJ, modèles PDF (Thymeleaf / Flying Saucer), droits d'accès |
-| Ingénieur Full Stack – Java / Angular | **C&A Trade Digital Services** | Août 2023 – nov. 2025 | Module RH & Paie d'un ERP cloud : contrats, congés, calcul de la paie, JasperReports, Spring Security multitenant |
+| Ingénieur Full Stack – Java / Angular | **Axeane** | Fév. 2026 – aujourd'hui | Application SaaS de facturation et de gestion de stock (Axeane Novia) : TVA, timbre fiscal, retenue à la source et XML TEJ, modèles PDF (Thymeleaf / Flying Saucer), droits d'accès |
+| Ingénieur Full Stack – Java / Angular | **C&A Trade Digital Services** | Août 2023 – nov. 2025 | Module RH & Paie d'une application GRH cloud : contrats, congés, calcul de la paie, JasperReports, Spring Security multitenant |
 | Chef de projet technique | **SHILDOM Tunisie** | 2013 – 2018 | Projets sécurité & réseaux, équipe de 5 à 10 techniciens, budgets, reporting et KPI |
 
 🎓 Diplôme d'ingénieur en génie logiciel — **ESPRIT** (2022)
