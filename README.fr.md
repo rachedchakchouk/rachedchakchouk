@@ -7,6 +7,7 @@
 📍 Ariana, Tunisie · 🌐 [rached-chakchouk.vercel.app](https://rached-chakchouk.vercel.app) · 💼 [LinkedIn](https://www.linkedin.com/in/rached-chakchouk) · ✉️ rached.chakchouk@esprit.tn
 
 🎯 [102 questions d'entretien expliquées](https://rached-chakchouk.vercel.app/entretien/) · 🤖 [JobRadar, ma veille d'offres avec IA](https://rached-chakchouk.vercel.app/jobradar/)
+
 Je développe des **applications métier** avec **Spring Boot, Angular et PostgreSQL** : une application de facturation et
 de gestion de stock, et une application GRH (ressources humaines et paie). À l'aise avec les règles métier complexes (fiscalité tunisienne,
 calcul de la paie, multitenancy), je suis attaché à des **livraisons fiables, sans régression**.

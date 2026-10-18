@@ -7,6 +7,7 @@
 📍 Ariana, Tunisia · 🌐 [rached-chakchouk.vercel.app](https://rached-chakchouk.vercel.app) · 💼 [LinkedIn](https://www.linkedin.com/in/rached-chakchouk) · ✉️ rached.chakchouk@esprit.tn
 
 🎯 [102 interview questions explained](https://rached-chakchouk.vercel.app/entretien/?lang=en) · 🤖 [JobRadar, my AI job watch](https://rached-chakchouk.vercel.app/jobradar/?lang=en)
+
 I build **business applications** with **Spring Boot, Angular and PostgreSQL**: an invoicing and stock
 management application, and an HR management and payroll application. I'm comfortable with complex business rules (Tunisian tax regulations,
 payroll calculation, multitenancy) and committed to **reliable, regression-free delivery**.
