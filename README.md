@@ -4,8 +4,9 @@
 
 ### Full Stack Software Engineer · Java / Spring Boot / Angular
 
-📍 Ariana, Tunisia · 🌐 [rached-chakchouk.netlify.app](https://rached-chakchouk.netlify.app) · 💼 [LinkedIn](https://www.linkedin.com/in/rached-chakchouk) · ✉️ rached.chakchouk@esprit.tn
+📍 Ariana, Tunisia · 🌐 [rached-chakchouk.vercel.app](https://rached-chakchouk.vercel.app) · 💼 [LinkedIn](https://www.linkedin.com/in/rached-chakchouk) · ✉️ rached.chakchouk@esprit.tn
 
+🎯 [102 interview questions explained](https://rached-chakchouk.vercel.app/entretien/?lang=en) · 🤖 [JobRadar, my AI job watch](https://rached-chakchouk.vercel.app/jobradar/?lang=en)
 I build **business applications** with **Spring Boot, Angular and PostgreSQL**: an invoicing and stock
 management application, and an HR management and payroll application. I'm comfortable with complex business rules (Tunisian tax regulations,
 payroll calculation, multitenancy) and committed to **reliable, regression-free delivery**.
@@ -64,7 +65,7 @@ I bring both engineering rigor and a strong sense of delivery.
 
 | Project | Description | Stack |
 |---|---|---|
-| [rached-chakchouk-portfolio](https://github.com/rachedchakchouk/rached-chakchouk-portfolio) | My bilingual portfolio (FR / EN) — [live](https://rached-chakchouk.netlify.app) | HTML, CSS, JS, Netlify |
+| [rached-chakchouk-portfolio](https://github.com/rachedchakchouk/rached-chakchouk-portfolio) | My bilingual portfolio (FR / EN) — [live](https://rached-chakchouk.vercel.app) | HTML, CSS, JS, Vercel |
 | [CollaboratorBook](https://github.com/rachedchakchouk/CollaboratorBook_FRONT) | End-of-studies project (Ditriot Consulting): internal social network & HR platform — Angular front + Spring Boot microservices ([backend](https://github.com/rachedchakchouk/CollaboratorBook_BACK)) | Angular, Spring Boot, Spring Cloud, JWT, MySQL |
 | [Timesheet_DevOps](https://github.com/rachedchakchouk/Timesheet_DevOps) | Spring Boot REST API shipped through a Jenkins → SonarQube → Nexus → Docker pipeline | Java, Spring Boot, MySQL, Jenkins, Docker |
 | [SocialNetwork-ParentsKindergartens](https://github.com/rachedchakchouk/SocialNetwork-ParentsKindergartens) | Backend of a social network for parents and kindergartens (30+ JPA entities) | Java, Spring Boot, JPA, MySQL |
@@ -72,6 +73,6 @@ I bring both engineering rigor and a strong sense of delivery.
 
 ---
 
-📄 CV: [English](https://rached-chakchouk.netlify.app/Rached_Chakchouk_CV_EN.pdf) · [Français](https://rached-chakchouk.netlify.app/Rached_Chakchouk_CV_FR.pdf)
+📄 CV: [English](https://rached-chakchouk.vercel.app/Rached_Chakchouk_CV_EN.pdf) · [Français](https://rached-chakchouk.vercel.app/Rached_Chakchouk_CV_FR.pdf)
 
 ⭐ Feel free to explore my repositories and connect with me.
