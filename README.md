@@ -22,8 +22,8 @@ I bring both engineering rigor and a strong sense of delivery.
 
 | Role | Company | Period | Highlights |
 |---|---|---|---|
-| Full Stack Engineer – Java / Angular | **Axeane** | Feb 2026 – present | SaaS invoicing and stock management application (Axeane Novia): Tunisian VAT, stamp duty, withholding tax & TEJ XML, PDF templates (Thymeleaf / Flying Saucer), access rights |
-| Full Stack Engineer – Java / Angular | **C&A Trade Digital Services** | Aug 2023 – Nov 2025 | Cloud HR management application, HR & Payroll module: contracts, leave, payroll calculation, JasperReports, multitenant Spring Security |
+| Full Stack Engineer – Java & Angular | **Axeane** | Feb 2026 – present | SaaS invoicing and stock management application (Axeane Novia): REST APIs, Tunisian VAT, stamp duty, withholding tax & TEJ XML, Liquibase migrations, JasperReports & HTML-to-PDF (Thymeleaf / Flying Saucer), role-based access rights, AI-assisted development |
+| Full Stack Engineer – Java & Angular | **C&A Trade Digital Services** | Aug 2023 – Jan 2026 | Cloud HR management application, HR & Payroll module: contracts, leave, payroll calculation, JasperReports, multitenant Spring Security |
 | Technical Project Manager | **SHILDOM Tunisie** | 2013 – 2018 | Security & network projects, team of 5–10 technicians, budgets, reporting & KPIs |
 
 🎓 Software Engineering degree — **ESPRIT** (2022)

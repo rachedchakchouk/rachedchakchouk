@@ -22,8 +22,8 @@ j'allie rigueur d'ingénieur et sens de la livraison.
 
 | Poste | Entreprise | Période | Points clés |
 |---|---|---|---|
-| Ingénieur Full Stack – Java / Angular | **Axeane** | Fév. 2026 – aujourd'hui | Application SaaS de facturation et de gestion de stock (Axeane Novia) : TVA, timbre fiscal, retenue à la source et XML TEJ, modèles PDF (Thymeleaf / Flying Saucer), droits d'accès |
-| Ingénieur Full Stack – Java / Angular | **C&A Trade Digital Services** | Août 2023 – nov. 2025 | Module RH & Paie d'une application GRH cloud : contrats, congés, calcul de la paie, JasperReports, Spring Security multitenant |
+| Ingénieur Full Stack – Java & Angular | **Axeane** | Fév. 2026 – aujourd'hui | Application SaaS de facturation et de gestion de stock (Axeane Novia) : API REST, TVA, timbre fiscal, retenue à la source et XML TEJ, migrations Liquibase, JasperReports et HTML-to-PDF (Thymeleaf / Flying Saucer), droits d'accès par rôles, développement assisté par IA |
+| Ingénieur Full Stack – Java & Angular | **C&A Trade Digital Services** | Août 2023 – janv. 2026 | Module RH & Paie d'une application GRH cloud : contrats, congés, calcul de la paie, JasperReports, Spring Security multitenant |
 | Chef de projet technique | **SHILDOM Tunisie** | 2013 – 2018 | Projets sécurité & réseaux, équipe de 5 à 10 techniciens, budgets, reporting et KPI |
 
 🎓 Diplôme d'ingénieur en génie logiciel — **ESPRIT** (2022)
